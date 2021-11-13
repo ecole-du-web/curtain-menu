@@ -43,7 +43,7 @@ export default function CurtainMenu() {
 
         <a href="#">HOME</a>
         <a href="#">SERVICES</a>
-        <a href="#">CONTACT</a>
+        <a href="#">CONTACT US</a>
       </nav>
     </>
   );
